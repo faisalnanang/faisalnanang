@@ -13,7 +13,7 @@ I work at the intersection of software quality, delivery engineering, and busine
 | Primary role | Senior QA Automation Engineer and Test Architecture Specialist |
 | Experience | 8+ years in complex and regulated delivery environments |
 | Core domains | Banking, payments, insurance, backend integrations, and document operations |
-| Delivery scope | Web, mobile, API, backend, and operational workflow automation |
+| Delivery scope | Web, mobile, API, backend, AS400 Core System, and operational workflow automation |
 | Engineering outcome | Faster feedback, stronger release confidence, and lower manual validation effort |
 
 ## Professional Focus
