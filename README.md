@@ -1,76 +1,135 @@
 ﻿# Nanang Faisal
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&lines=Senior+QA+Automation+Engineer;RPA+Specialist;Framework+Architect" alt="Typing SVG" />
-</div>
+## Senior QA Automation Engineer | RPA Specialist | Test Architecture
 
-<p align="center">
-  <a href="https://github.com/faisalnanang">
-    <img src="https://img.shields.io/badge/GitHub-faisalnanang-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:nanangfaisal@example.com">
-    <img src="https://img.shields.io/badge/Email-nanangfaisal%40example.com-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/faisalnanang/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+Quality engineering professional with 8+ years of experience designing automation solutions for complex and regulated environments. Focused on scalable test architecture, reliable delivery pipelines, and automation that improves both product confidence and operational efficiency.
 
-## About Me
-Senior QA Automation Engineer, RPA Specialist, and Framework Architect with 8+ years of experience in Banking & Insurance domains, including BCA, BCAD, Permata, Jalin Switching, and AIA. I specialize in designing and building automation frameworks from the ground up, with a strong focus on quality engineering, scalable test architecture, and digital transformation.
+I work at the intersection of software quality, delivery engineering, and business process automation. My approach is to turn critical business risk into observable, repeatable, and maintainable engineering controls.
 
-## Core Competencies
-- Test Automation Framework Architecture from scratch
-- End-to-End (E2E) Testing
-- API Testing
-- Performance Testing
-- Robotic Process Automation (RPA)
-- Engineering Quality Strategy & CI/CD Integration
-- Cross-platform automation for web, mobile, and backend systems
+## Executive Snapshot
 
-## Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Appium-EE6723?style=flat-square&logo=appium&logoColor=white" alt="Appium" />
-  <img src="https://img.shields.io/badge/RestAssured-7A1FA2?style=flat-square&logo=java&logoColor=white" alt="RestAssured" />
-  <img src="https://img.shields.io/badge/UiPath-FA7343?style=flat-square&logo=uipath&logoColor=white" alt="UiPath" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-</p>
+| Area | Capability |
+| --- | --- |
+| Primary role | Senior QA Automation Engineer and Test Architecture Specialist |
+| Experience | 8+ years in complex and regulated delivery environments |
+| Core domains | Banking, payments, insurance, backend integrations, and document operations |
+| Delivery scope | Web, mobile, API, backend, and operational workflow automation |
+| Engineering outcome | Faster feedback, stronger release confidence, and lower manual validation effort |
 
-## Portfolio / Featured Projects
+## Professional Focus
 
-### 1. Banking Web Automation
-- Automated critical web flows for banking applications to reduce manual validation effort and improve release confidence.
-- Built reusable test layers, data-driven scenarios, and stable selectors for enterprise-grade stability.
-- Focus: regression, smoke, business-critical workflow validation, and release gate automation.
+- Enterprise test automation strategy and framework architecture
+- End-to-end quality engineering for web, mobile, API, and backend systems
+- Regression, smoke, integration, contract, and performance testing
+- CI/CD quality gates and automated release validation
+- Robotic Process Automation for high-volume operational workflows
+- Data extraction, business-rule validation, exception handling, and process governance
 
-### 2. API Automation
-- Designed API test suites for backend services and integrations across financial platforms.
-- Covered contract validation, negative scenarios, data integrity checks, and service-level reliability checks.
-- Focus: Restful API testing, contract assurance, and CI/CD integration.
+## Quality Engineering Operating Model
 
-### 3. RPA Invoice / Data Extractor
-- Developed intelligent automation for repetitive document and data extraction workflows.
-- Reduced operational effort and improved processing speed in high-volume transactional operations.
-- Focus: OCR-assisted workflows, validation rules, exception handling, and enterprise bot governance.
+```text
+Business risk
+	-> Test strategy and risk-based coverage
+	-> Reusable automation architecture
+	-> CI/CD execution and quality gates
+	-> Observable results and release confidence
+```
 
-## Professional Highlights
-- 8+ years of experience in complex and regulated environments
-- Hands-on experience in Banking, Insurance, and Digital Transformation initiatives
-- Strong track record in building automation frameworks from zero to scalable production-ready systems
-- Bridging engineering quality and operational efficiency through automation strategy
+The focus is not automation for its own sake. Automation is designed around critical user journeys, service contracts, data integrity, operational controls, and the feedback speed required by delivery teams.
+
+## Technology Stack
+
+### Automation & Quality Engineering
+
+- Selenium
+- Cypress
+- Playwright
+- Appium
+- REST Assured
+- API and contract testing
+- Performance testing
+
+### Languages & Platforms
+
+- Java
+- Python
+- TypeScript
+- UiPath
+
+### Delivery & Engineering Practices
+
+- Jenkins
+- GitHub Actions
+- CI/CD integration
+- Data-driven and reusable test design
+- Cross-platform test execution
+- Production-oriented framework design
+
+## Capability Matrix
+
+| Capability | Enterprise Application |
+| --- | --- |
+| Framework architecture | Reusable layers, clear conventions, maintainable test components, and scalable execution |
+| Functional assurance | Critical-path validation across UI, API, integration, and backend services |
+| API quality | Contract checks, positive and negative scenarios, data validation, and integration coverage |
+| Release engineering | CI/CD orchestration, smoke suites, regression suites, and release gates |
+| Operational automation | Document extraction, business-rule validation, exception flows, and high-volume processing |
+| Quality governance | Traceable results, stable execution, risk-based prioritization, and production readiness |
+
+## Domain Experience
+
+- Banking and digital financial services
+- Payment and transaction switching
+- Insurance operations
+- Backend service integrations
+- Document processing and invoice workflows
+- Digital transformation initiatives
+
+## Selected Capabilities
+
+### Quality Engineering
+
+Design and implement maintainable automation frameworks from the ground up, covering critical business workflows, service integrations, data integrity, negative scenarios, and release-readiness checks.
+
+### Financial Services Assurance
+
+Validate transaction-oriented applications and integrations where reliability, traceability, data accuracy, and controlled release processes are essential.
+
+### Intelligent Process Automation
+
+Automate repetitive document and data workflows using extraction, validation, exception management, and operational controls suitable for high-volume processing.
+
+### Engineering Enablement
+
+Establish reusable test components, execution standards, and CI/CD integration that help teams scale quality practices across products and delivery teams.
+
+## Featured Work
+
+### Insurance Mobile Automation Framework
+
+Enterprise mobile automation framework for Android and iOS validation using Appium, Java, TestNG, and Maven.
+
+- Supports functional, regression, smoke, and parallel test execution
+- Applies reusable page objects, test data, device configuration, and reporting components
+- Integrates Allure reporting into the test lifecycle for traceable execution results
+- Designed for maintainable cross-platform coverage of critical insurance workflows
+
+## Professional Value
+
+- Builds quality platforms that remain maintainable as products and teams grow
+- Connects business risk with practical automation coverage
+- Improves release confidence through repeatable, observable validation
+- Combines software quality engineering with operational automation
+
+## Engineering Principles
+
+- **Risk-led coverage:** prioritize scenarios by business impact, failure cost, and operational exposure.
+- **Maintainability over volume:** build automation that teams can understand, extend, and trust.
+- **Fast, actionable feedback:** make failures observable and useful within the delivery workflow.
+- **Controls by design:** treat data integrity, traceability, and exception handling as first-class concerns.
+- **Automation with purpose:** connect every automated workflow to a measurable quality or efficiency outcome.
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/faisalnanang/
-- Email: nanangfaisal@example.com
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faisalnanang&color=blueviolet" alt="Profile views" />
-</p>
+- LinkedIn: [faisalnanang](https://www.linkedin.com/in/faisalnanang/)
+- GitHub: [faisalnanang](https://github.com/faisalnanang)
